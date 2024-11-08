@@ -34,9 +34,9 @@ int main() {
     hufflepuff ++;
   } else if (answer1 == 2) {
     slytherin ++;
-  } else if (answer1 = 3) {
+  } else if (answer1 == 3) {
     ravenclaw ++;
-  } else if (answer1 = 4) {
+  } else if (answer1 == 4) {
     gryffindor ++;
   } else {
     std::cout << "Invalid input";
@@ -70,9 +70,9 @@ std::cout << "2) Dawn or dusk?\n";
     slytherin ++;
   } else if (answer3 == 2) {
     hufflepuff ++;
-  } else if (answer3 = 3) {
+  } else if (answer3 == 3) {
     ravenclaw ++;
-  } else if (answer3 = 4) {
+  } else if (answer3 == 4) {
     gryffindor ++;
   } else {
     std::cout << "Invalid input";
@@ -90,9 +90,9 @@ std::cout << "2) Dawn or dusk?\n";
     hufflepuff ++;
   } else if (answer4 == 2) {
     slytherin ++;
-  } else if (answer4 = 3) {
+  } else if (answer4 == 3) {
     gryffindor ++;
-  } else if (answer4 = 4) {
+  } else if (answer4 == 4) {
     ravenclaw ++;
   } else {
     std::cout << "Invalid input";
